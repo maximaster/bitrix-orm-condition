@@ -1,0 +1,14 @@
+{
+    "name": "maximaster/bitrix-orm-condition",
+    "description": "Удобные классы для работы с построением условий ORM-запросов.",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "maximaster/bitrix-enums": ">=18.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maximaster\\BitrixOrmCondition\\": "src/"
+        }
+    }
+}
