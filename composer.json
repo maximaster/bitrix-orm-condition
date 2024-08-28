@@ -10,5 +10,9 @@
         "psr-4": {
             "Maximaster\\BitrixOrmCondition\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {"name": "Лавриненко Максим", "email": "maxim.lavrinenko@maximaster.ru"},
+        {"name": "Мельников Максим", "email": "m.melnikov@maximaster.ru"}
+    ]
 }
